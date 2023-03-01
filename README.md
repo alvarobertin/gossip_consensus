@@ -3,4 +3,4 @@
 pip install -r requirements.txt
 
 python main.py < text_example.txt
-python main.py < in.txt
+python main.py < example.txt
